@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+
+.btn {
+    padding: 30%;
+    margin-top: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 3%;
+}
+.can {
+    background-color: #888080;
+    padding-bottom: 5%;
+    padding-top: 4%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10px;
+    border-radius: 20px;
+
+}
